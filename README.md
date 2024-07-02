@@ -17,7 +17,7 @@ Gin es un framework web escrito en Go (Golang) que se utiliza para construir apl
 5. **Gestión de errores**: Gin facilita la captura y gestión de errores a lo largo del ciclo de vida de la solicitud.
 6. **Soporte para JSON**: Incluye soporte nativo para trabajar con datos JSON, lo que es muy útil para las API RESTful.
 
-### Instalacíon
+### Instalación
 ```
 go get -u github.com/gin-gonic/gin
 ```
