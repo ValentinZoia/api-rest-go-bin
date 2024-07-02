@@ -17,6 +17,11 @@ Gin es un framework web escrito en Go (Golang) que se utiliza para construir apl
 5. **Gestión de errores**: Gin facilita la captura y gestión de errores a lo largo del ciclo de vida de la solicitud.
 6. **Soporte para JSON**: Incluye soporte nativo para trabajar con datos JSON, lo que es muy útil para las API RESTful.
 
+### Instalacíon
+```
+go get -u github.com/gin-gonic/gin
+```
+
 ## Introducción a los Handlers
 
 **Handlers**, en el contexto de un servidor web, son funciones que se encargan de manejar las solicitudes HTTP entrantes. En Go, utilizando el framework Gin, los handlers son funciones que responden a rutas específicas. Su propósito principal es procesar las solicitudes HTTP, realizar operaciones necesarias (como acceder a una base de datos o procesar datos), y devolver una respuesta HTTP adecuada.
