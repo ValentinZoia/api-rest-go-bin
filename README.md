@@ -192,7 +192,7 @@ func LoadConfig() {
 ### **.env**:
 
 ```makefile
-PORT=808
+PORT=8080
 ```
 
 ### **.gitignore**:
